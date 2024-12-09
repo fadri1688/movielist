@@ -1,0 +1,163 @@
+[
+    {
+      "title": "Shadows of Tomorrow",
+      "year": 2024,
+      "duration": 132,
+      "actors": ["Liam Harper", "Sophia Rivers", "Max Sterling"],
+      "genre": "Sci-Fi",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "The Crimson Mirage",
+      "year": 2022,
+      "duration": 118,
+      "actors": ["Elena Vasquez", "Victor Monroe"],
+      "genre": "Thriller",
+      "cover": "The_Crimson_Mirage.png"
+    },
+    {
+      "title": "Echoes of Eternity",
+      "year": 2023,
+      "duration": 145,
+      "actors": ["Jonathan Pierce", "Amelia Clarke"],
+      "genre": "Fantasy",
+      "cover": "Echoes_of_Eternity.png"
+    },
+    {
+      "title": "The Final Encore",
+      "year": 2021,
+      "duration": 99,
+      "actors": ["Nathan Bell", "Fiona Green"],
+      "genre": "Drama",
+      "cover": "The_Final_Encore.png"
+    },
+    {
+      "title": "Whispering Shadows.png",
+      "year": 2020,
+      "duration": 110,
+      "actors": ["Grace Woods", "Ethan Brooks"],
+      "genre": "Horror",
+      "cover": "Whispering_Shadows.png"
+    },
+    {
+      "title": "Crisis Protocol",
+      "year": 2024,
+      "duration": 125,
+      "actors": ["Lucas Turner", "Chloe Sanders"],
+      "genre": "Action",
+      "cover": "Crisis_Protocol.png"
+    },
+    {
+      "title": "Aurora's Waltz",
+      "year": 2019,
+      "duration": 135,
+      "actors": ["Isabella Bennett", "Oliver Hayes"],
+      "genre": "Romance",
+      "cover": "Aurora's_Waltz.png"
+    },
+    {
+      "title": "Quantum Boundaries",
+      "year": 2023,
+      "duration": 140,
+      "actors": ["Ryan Carter", "Emily Frost"],
+      "genre": "Sci-Fi",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "The Ivory Mask",
+      "year": 2021,
+      "duration": 112,
+      "actors": ["Sophia Blake", "Alexander Reed"],
+      "genre": "Mystery",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "Desert Blaze",
+      "year": 2022,
+      "duration": 127,
+      "actors": ["Derek Cole", "Tessa Moore"],
+      "genre": "Adventure",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "Underneath the Surface",
+      "year": 2020,
+      "duration": 102,
+      "actors": ["Megan Scott", "James Hudson"],
+      "genre": "Drama",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "The Clockwork Empire",
+      "year": 2024,
+      "duration": 150,
+      "actors": ["Adrian King", "Naomi Fields"],
+      "genre": "Steampunk",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "Fragments of a Dream",
+      "year": 2019,
+      "duration": 95,
+      "actors": ["Hannah Stone", "Elliot Gray"],
+      "genre": "Romance",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "Steel Horizon",
+      "year": 2021,
+      "duration": 130,
+      "actors": ["Jack Daniels", "Laura Vega"],
+      "genre": "Action",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "Silent Crescendo",
+      "year": 2020,
+      "duration": 119,
+      "actors": ["Clara Hill", "Oscar Bennett"],
+      "genre": "Musical",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "Nebula Wars: Awakening",
+      "year": 2023,
+      "duration": 160,
+      "actors": ["Leo Burns", "Natalie Woods"],
+      "genre": "Sci-Fi",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "Beneath the Ice",
+      "year": 2022,
+      "duration": 123,
+      "actors": ["Evan Parker", "Olivia Frost"],
+      "genre": "Thriller",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "The Forgotten Melody",
+      "year": 2019,
+      "duration": 105,
+      "actors": ["Sophia Carter", "Ethan Chase"],
+      "genre": "Drama",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "Parallel Realms",
+      "year": 2024,
+      "duration": 148,
+      "actors": ["Alex Morgan", "Zoe Turner"],
+      "genre": "Fantasy",
+      "cover": "Shadows_of_Tomorrow.png"
+    },
+    {
+      "title": "The Midnight Chasers",
+      "year": 2021,
+      "duration": 135,
+      "actors": ["Jake Riley", "Chloe Summers"],
+      "genre": "Action",
+      "cover": "Shadows_of_Tomorrow.png"
+    }
+  ]
+  

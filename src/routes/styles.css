@@ -1,0 +1,20 @@
+/* 
+ alle bilder gleich Gross auf der Movies seite gleich gross
+ für die MoviesDB seite nicht benötigt, dort sind die Bilder schoon gleich gross
+#bild {
+    height: 366px;
+}
+   
+*/
+
+#but {
+    margin-bottom: 1%;
+}
+#nav {
+    background-color: rgb(181, 178, 178) !important;
+}
+body {
+    background-color: rgb(73, 71, 71);
+    color: white;
+
+}
